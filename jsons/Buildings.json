@@ -11,6 +11,6 @@
 		"science": 1,
 		"gold": 1,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Sailing"
+		"requiredTech": "Optics"
 	}
 ]
