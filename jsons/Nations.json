@@ -29,7 +29,7 @@
 
 		"outerColor": [51,255,16],
 		"innerColor": [20,224,244],
-		"uniques": ["[+2 Food, +1 Happiness] from every [Coast]","[-10 Happiness] from every [Barracks]","Cannot build [Worker] units"],
+		"uniques": ["[+2 Food, +1 Happiness] from every [Coast]","Cannot build [Worker] units"],
 		"cities": ["Crimau","Dojcad","Sulos","Chpu","Achmun","Chchay","Palgos","Cavok"]
 	}
 ]
