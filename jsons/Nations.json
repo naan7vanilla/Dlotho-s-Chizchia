@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Chizchia",
+		"leaderName": "Chipura II",
+		"adjective": ["Chizchian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": ["Please rule your people of Chizchia nicely."],
+		"startIntroPart2": ["Let's ride the great wave, hang out around the deepest reef!"],
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": ["You are the barrier of the mankind progression!"],
+		"attacked": ["War is loss of many people's youth and nature itself."],
+		"defeated": ["As long as the Chizchia stands, liberalism shall stand..."],
+		"introduction": ["Let's be friend, just friend. Let's ride the great wave, hang out around the deepest reef!"],
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": ["Sup mr ambassador"],
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["This is harmful for the enviroment."],
+		"neutralYes": ["That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": ["Stay away"],
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["We are not agreeing to that!"],
+		"hateYes": ["That is good enough."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": ["This apology cannot pay for the millions of lives."],
+		"tradeRequest": ["This is verified by WFTO, fair trade for workers!"],
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"innerColor": [0,205,255],
+		"uniques": ["[+2 Food, +1 Happiness] from every [Coast]","[-10 Happiness] from every [Barracks]","Cannot build [Worker] units"],
+		"cities": ["Crimau","Dojcad","Sulos","Chpu","Achmun","Chchay","Palgos","Cavok"]
 	}
 ]
