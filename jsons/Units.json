@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"name": "Shark Cavalry",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Chizchi",
+		"replaces": "Trireme",
+		"movement": 6,
+		"strength": 8,
+		"rangedStrength": 45,
+		"range": 1,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"requiredResource": "Fish",
+		"promotions": ["Supply"],
 		"attackSound": "phasers"
 	}
 ]
