@@ -4,7 +4,7 @@
 		"leaderName": "Chipura II",
 		"adjective": ["Chizchian"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": ["Please rule your people of Chizchia nicely."],
 		"startIntroPart2": ["Let's ride the great wave, hang out around the deepest reef!"],
