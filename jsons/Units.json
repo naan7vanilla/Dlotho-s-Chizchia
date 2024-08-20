@@ -2,7 +2,7 @@
 	{
 		"name": "Shark Cavalry",
 		"unitType": "Ranged Water",
-		"uniqueTo": "Chizchi",
+		"uniqueTo": "Chizchia",
 		"replaces": "Trireme",
 		"movement": 6,
 		"strength": 8,
