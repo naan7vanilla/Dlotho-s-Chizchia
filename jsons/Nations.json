@@ -27,8 +27,8 @@
 		"afterPeace": ["This apology cannot pay for the millions of lives."],
 		"tradeRequest": ["This is verified by WFTO, fair trade for workers!"],
 
-		"outerColor": [16,16,16],
-		"innerColor": [0,205,255],
+		"outerColor": [51,255,16],
+		"innerColor": [20,224,244],
 		"uniques": ["[+2 Food, +1 Happiness] from every [Coast]","[-10 Happiness] from every [Barracks]","Cannot build [Worker] units"],
 		"cities": ["Crimau","Dojcad","Sulos","Chpu","Achmun","Chchay","Palgos","Cavok"]
 	}
