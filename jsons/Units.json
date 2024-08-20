@@ -10,7 +10,7 @@
 		"range": 1,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"requiredResource": "Fish",
+		"requiredResource": "Whales",
 		"promotions": ["Supply"],
 		"attackSound": "phasers"
 	}
